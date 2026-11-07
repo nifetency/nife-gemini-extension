@@ -1,0 +1,10 @@
+{
+  "name": "nife",
+  "version": "1.2.0",
+  "description": "Deploy and manage Nife.io sites from Gemini CLI.",
+  "mcpServers": {
+    "nife": {
+      "httpUrl": "https://mcp.on.nifetency.com/mcp"
+    }
+  }
+}
